@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+langchain-openai
+langgraph
+pandas
+json5
+typing-extensions
+lxml
+nltk
+tiktoken
+datasets
+jupyterlab >= 4.0
+mysql-connector-python
+kagglehub
+sqlalchemy
+python-dotenv
